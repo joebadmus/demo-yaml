@@ -1,0 +1,15 @@
+name: Testing 
+listVersion: 0.1
+vulnerabilities:
+  - name: kjfcsjkludsuyd0
+    severity: Unknown
+    link: https://sXXXX/XXXXr/jhdhjd0
+    submitter:
+      username: Jan kowalski
+      date: '2021-06-03'
+    approver:
+      username: Approver Mike
+      date: '2021-06-08'
+    comment: This is the justification 
+    services:
+      - highway
